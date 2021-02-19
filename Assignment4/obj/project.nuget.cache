@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EjmNWHSDJ+APzYcbpqzfurWfqlrGP45tON54dck1PizhDpCr4Yum+C+jqrsDR+kbM0sYg2tRj29kF5kSKxgHgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ricke\\source\\repos\\Assignment4\\Assignment4\\Assignment4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricke\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\ricke\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\ricke\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\ricke\\.nuget\\packages\\awssdk.core\\3.5.2.10\\awssdk.core.3.5.2.10.nupkg.sha512",
+    "C:\\Users\\ricke\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.4.29\\awssdk.dynamodbv2.3.5.4.29.nupkg.sha512"
+  ],
+  "logs": []
+}
